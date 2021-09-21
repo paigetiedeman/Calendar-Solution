@@ -1,0 +1,12 @@
+C:\Users\paige\OneDrive\Desktop\Calendar.Solution\Calendar\bin\Debug\net5.0\Calendar.deps.json
+C:\Users\paige\OneDrive\Desktop\Calendar.Solution\Calendar\bin\Debug\net5.0\Calendar.dll
+C:\Users\paige\OneDrive\Desktop\Calendar.Solution\Calendar\bin\Debug\net5.0\ref\Calendar.dll
+C:\Users\paige\OneDrive\Desktop\Calendar.Solution\Calendar\bin\Debug\net5.0\Calendar.pdb
+C:\Users\paige\OneDrive\Desktop\Calendar.Solution\Calendar\obj\Debug\net5.0\Calendar.csproj.AssemblyReference.cache
+C:\Users\paige\OneDrive\Desktop\Calendar.Solution\Calendar\obj\Debug\net5.0\Calendar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\paige\OneDrive\Desktop\Calendar.Solution\Calendar\obj\Debug\net5.0\Calendar.AssemblyInfoInputs.cache
+C:\Users\paige\OneDrive\Desktop\Calendar.Solution\Calendar\obj\Debug\net5.0\Calendar.AssemblyInfo.cs
+C:\Users\paige\OneDrive\Desktop\Calendar.Solution\Calendar\obj\Debug\net5.0\Calendar.csproj.CoreCompileInputs.cache
+C:\Users\paige\OneDrive\Desktop\Calendar.Solution\Calendar\obj\Debug\net5.0\Calendar.dll
+C:\Users\paige\OneDrive\Desktop\Calendar.Solution\Calendar\obj\Debug\net5.0\ref\Calendar.dll
+C:\Users\paige\OneDrive\Desktop\Calendar.Solution\Calendar\obj\Debug\net5.0\Calendar.pdb
